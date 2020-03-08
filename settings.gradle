@@ -1,0 +1,2 @@
+include ':app', ':storage', ':senior'
+rootProject.name='My Application'
